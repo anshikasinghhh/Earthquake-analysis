@@ -8,7 +8,7 @@ The primary goal of this project is to explore and visualize temporal patterns o
 This project performs an in-depth analysis of a global earthquake dataset using Python libraries like pandas, matplotlib, and seaborn. It converts raw earthquake data into meaningful insights by:
 
 - Converting and cleaning the time column to extract datetime features.
-- Visualizing earthquake occurrences over the years using bar and line plots.
+- Visualizing earthquake occurrences over the years using bar and line plots.        
 - Analyzing monthly and daily earthquake frequencies using heatmaps and bar charts.
 - Exploring relationships between depth, magnitude, and geographical locations.
 - Categorizing earthquakes based on magnitude classification.
