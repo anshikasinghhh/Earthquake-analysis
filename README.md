@@ -20,7 +20,7 @@ The analysis is carried out in Jupyter Notebook, with a strong focus on readable
 
 - Python 3.x  
 - Pandas  
-- Matplotlib  
+- Matplotlib                      
 - Seaborn  
 - Jupyter Notebook  
 
