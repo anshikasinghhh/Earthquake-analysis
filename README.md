@@ -19,7 +19,8 @@ The analysis is carried out in Jupyter Notebook, with a strong focus on readable
 ## 🛠 Technologies Used
 
 - Python 3.x  
-- Pandas  
+- Pandas
+- Numpy 
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
