@@ -1,6 +1,6 @@
 # Temporal Analysis of Earthquake and Frequencies Using Visualization
 
-## 📌 Objective
+##  Objective
 The primary goal of this project is to explore and visualize temporal patterns of earthquakes globally. By leveraging data visualization techniques, the project aims to uncover trends in earthquake occurrences based on time-related variables such as year, month, day of the week, and hour of the day.
 
 ## 📊 Project Description
@@ -16,7 +16,7 @@ This project performs an in-depth analysis of a global earthquake dataset using 
 
 The analysis is carried out in Jupyter Notebook, with a strong focus on readable and interpretable visuals to support temporal insights.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.x  
 - Pandas  
