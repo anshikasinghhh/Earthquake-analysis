@@ -16,7 +16,7 @@ This project performs an in-depth analysis of a global earthquake dataset using 
 
 The analysis is carried out in Jupyter Notebook, with a strong focus on readable and interpretable visuals to support temporal insights.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.x  
 - Pandas  
@@ -24,7 +24,7 @@ The analysis is carried out in Jupyter Notebook, with a strong focus on readable
 - Seaborn  
 - Jupyter Notebook  
 
-## 📌 Key Visualizations
+##  Key Visualizations
 
 - Year-wise and month-wise frequency analysis  
 - Heatmaps showing earthquake density  
